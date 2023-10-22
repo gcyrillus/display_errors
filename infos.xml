@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<title><![CDATA[display_error]]></title>
+<author><![CDATA[gc-nomade]]></author>
+<version>1.0</version>
+<date>22/10/23</date>
+<site>https://pluxopolis.net</site>
+<description><![CDATA[active l&#039affichage des warnings et erreur de vos scripts php. Utile si ceux-ci sont cach&eacutes sur votre hebergement et que vous ne savez pas comment le modifier temporairement.]]></description>
+</document>
