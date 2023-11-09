@@ -39,7 +39,7 @@
 		}
 		public function OnDeactivate() {
 			# code à executer à la désactivation du plugin
-			$this->setParam('active','0',numeric);
+			$this->setParam('active','0','numeric');
 			$this->saveParams();
 		}
 		
@@ -79,7 +79,7 @@
 			}
 			catch (Exception $e) {
 				echo  $e->getMessage();
-				$this->setParam('active','0',numeric);
+				$this->setParam('active','0','numeric');
 				$this->saveParams();
 				echo 'Plugin turned OFF ! Plugin ETEINT !';
 			}			
