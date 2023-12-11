@@ -1,6 +1,6 @@
 <?php
 	/**
-		* Plugin display_error
+		* Plugin display_errors
 		*
 		* @package	PLX
 		* @version	1.1
