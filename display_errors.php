@@ -7,7 +7,7 @@
 		* @date	09/11/23
 		* @author gc-nomade
 	**/
-	class display_error extends plxPlugin {
+	class display_errors extends plxPlugin {
 		private $active; // etat actif/non actif
 		
 		public function __construct($default_lang) {
